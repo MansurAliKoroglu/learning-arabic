@@ -1,2 +1,3 @@
-- [Deploying Applications](deploying.md)
-- [npm](npm.md)
+- [Sarf](./sarf/)
+  - [Emsile](./sarf/emsile/)
+    - [1. Ders](./sarf/emsile/1.md)

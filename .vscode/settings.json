@@ -1,0 +1,6 @@
+{
+  "pasteImage.path": "${projectRoot}/docs/_media",
+  "pasteImage.basePath": "/_media",
+  "pasteImage.namePrefix": "${currentFileNameWithoutExt}_",
+  "pasteImage.insertPattern": "![](/_media/${imageFileName})"
+}
