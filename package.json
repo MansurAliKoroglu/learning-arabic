@@ -1,0 +1,15 @@
+{
+  "name": "hn-docs",
+  "version": "1.0.0",
+  "description": "All the documentation about HN Software workflows",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hn-software/hn-docs.git"
+  },
+  "scripts": {},
+  "private": true,
+  "devDependencies": {
+    "docsify-cli": "4.4.4"
+  }
+}
