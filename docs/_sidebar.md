@@ -1,3 +1,4 @@
 - [Sarf](./sarf/)
   - [Emsile](./sarf/emsile/)
     - [1. Ders](./sarf/emsile/1.md)
+    - [2. Ders](./sarf/emsile/2.md)
