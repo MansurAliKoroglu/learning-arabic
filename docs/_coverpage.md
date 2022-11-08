@@ -4,4 +4,4 @@
 
 For you to easily work on anything :yum:
 
-[Start Reading](#hn-docs)
+[Start Reading](#arapca)

@@ -2,6 +2,6 @@
   "pasteImage.path": "${projectRoot}/docs/_media",
   "pasteImage.basePath": "/_media",
   "pasteImage.namePrefix": "",
-  "pasteImage.insertPattern": "![](/_media/${imageFileName})",
-  "pasteImage.defaultName": "[CHANGEME]"
+  "pasteImage.insertPattern": "![](../../_media/${imageFileName})",
+  "pasteImage.defaultName": "[1CHANGEME]"
 }
