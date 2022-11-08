@@ -1,0 +1,18 @@
+version: '3.1'
+
+services:
+  learn-arabic-app:
+    build:
+      dockerfile: Dockerfile
+      context: .
+    restart: unless-stopped
+    networks:
+      - nginx-proxy-manager
+      - learn-arabic-internal
+
+networks:
+  nginx-proxy-manager:
+    name: nginx-proxy-manager
+    external: true
+  learn-arabic-internal:
+    name: learn-arabic-internal
