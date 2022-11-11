@@ -8,13 +8,10 @@
     "url": "https://github.com/hn-software/hn-docs.git"
   },
   "scripts": {
-    "start": "http-server ./docs"
+    "start": "docsify serve ./docs"
   },
   "private": true,
   "devDependencies": {
     "docsify-cli": "4.4.4"
-  },
-  "dependencies": {
-    "http-server": "^14.1.1"
   }
 }
