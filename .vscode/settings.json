@@ -3,5 +3,5 @@
   "pasteImage.basePath": "/_media",
   "pasteImage.namePrefix": "",
   "pasteImage.insertPattern": "![](../../_media/${imageFileName})",
-  "pasteImage.defaultName": "[1CHANGEME]"
+  // "pasteImage.defaultName": "[1CHANGEME]"
 }
