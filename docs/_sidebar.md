@@ -5,3 +5,4 @@
     - [3. Ders](./sarf/emsile/3.md)
     - [4. Ders](./sarf/emsile/4.md)
     - [5. Ders](./sarf/emsile/5.md)
+    - [6. Ders](./sarf/emsile/6.md)
