@@ -10,3 +10,4 @@
     - [8. Ders](sarf/emsile/8.md)
     - [9. Ders](sarf/emsile/9.md)
     - [10. Ders](sarf/emsile/10.md)
+    - [11. Ders](sarf/emsile/11.md)
