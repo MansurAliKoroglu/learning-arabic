@@ -9,3 +9,4 @@
     - [7. Ders](sarf/emsile/7.md)
     - [8. Ders](sarf/emsile/8.md)
     - [9. Ders](sarf/emsile/9.md)
+    - [10. Ders](sarf/emsile/10.md)
