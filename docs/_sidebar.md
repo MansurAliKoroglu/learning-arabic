@@ -17,3 +17,4 @@
     - [15. Ders](sarf/emsile/15.md)
     - [16. Ders](sarf/emsile/16.md)
     - [17. Ders](sarf/emsile/17.md)
+    - [18. Ders](sarf/emsile/18.md)
