@@ -1,5 +1,6 @@
 - [Sarf](sarf/)
   - [Emsile](sarf/emsile/)
+    - [Kaynaklar](sarf/emsile/kaynaklar.md)
     - [1. Ders](sarf/emsile/1.md)
     - [2. Ders](sarf/emsile/2.md)
     - [3. Ders](sarf/emsile/3.md)
