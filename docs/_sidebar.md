@@ -20,3 +20,4 @@
     - [17. Ders](sarf/emsile/17.md)
     - [18. Ders](sarf/emsile/18.md)
     - [19. Ders](sarf/emsile/19.md)
+    - [20. Ders](sarf/emsile/20.md)
