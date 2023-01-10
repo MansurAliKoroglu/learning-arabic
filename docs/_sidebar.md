@@ -27,3 +27,4 @@
     - [24. Ders](sarf/emsile/24.md)
     - [25. Ders](sarf/emsile/25.md)
     - [26. Ders](sarf/emsile/26.md)
+    - [27. Ders](sarf/emsile/27.md)
